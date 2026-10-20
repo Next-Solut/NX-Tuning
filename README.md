@@ -52,7 +52,7 @@ Created by **Next-Solutions** • [Join our Discord](https://discord.gg/mB45RPuF
    ```cfg
    ensure nx_tuning
    ```
-4. Configure [config.lua](file:///d:/Documente/FiveMServer/StateLifeDev/txData/StateLifeDev/resources/[custom]/nx_tuning/config.lua) to suit your server's needs.
+4. Configure [config.lua] to suit your server's needs.
 
 ---
 
