@@ -76,7 +76,7 @@ Config.NotifyType                   = 'esx' -- Notification system: 'nx_notify' 
 
 ---
 
-Created by **Next-Solutions** • Powered by Saf-Solutions
+Powered by Saf-Solutions
 
 ## 💬 Support & Community
 
